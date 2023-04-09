@@ -2,7 +2,7 @@
   "name": "e-commerce-app-2023",
   "version": "1.0.0",
   "description": "e-commerce rest api",
-  "main": "server.js",
+  "main": "start",
   "type": "module",
   "scripts": {
     "start": "node server.js",
